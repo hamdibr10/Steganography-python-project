@@ -1,1 +1,1 @@
-# Steganography-python-project
+# Python-Mini-project-
